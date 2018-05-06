@@ -4,6 +4,8 @@ Galaxy harassment : Hostigamiento de galaxias
 
 Local Standard of Rest: 
 
+Main Seqeunce Turn-Off stars MSTO : 
+
 Ram Presure Stripping: arrancado/desmantelado por presión de ariete
 
 Survey: Sondeo
